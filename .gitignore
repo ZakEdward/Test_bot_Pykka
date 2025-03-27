@@ -1,0 +1,15 @@
+    API_TOKEN = '6908665113:AAHQ1js4Cm1DoEeCRsxhD5W3-fnkeYiofHA'
+# Исключаем виртуальное окружение
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+*.env
+*.env.local
+*.env.*.local
