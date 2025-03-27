@@ -1,4 +1,3 @@
-    API_TOKEN = '6908665113:AAHQ1js4Cm1DoEeCRsxhD5W3-fnkeYiofHA'
 # Исключаем виртуальное окружение
 .venv/
 venv/
